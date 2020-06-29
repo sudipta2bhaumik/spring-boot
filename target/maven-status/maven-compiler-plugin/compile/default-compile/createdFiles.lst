@@ -1,0 +1,4 @@
+com/sudipta/Application.class
+com/sudipta/controller/StudentController.class
+com/sudipta/entity/Student.class
+com/sudipta/repository/StudentRepository.class
